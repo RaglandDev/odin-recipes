@@ -1,0 +1,1 @@
+The webpage will consist of a main index page, with links to several recipes.
